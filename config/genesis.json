@@ -81,7 +81,7 @@
     },
     "crisis": {
       "constant_fee": {
-        "denom": "uluna",
+        "denom": "uinrt",
         "amount": "1000"
       }
     },
@@ -191,7 +191,7 @@
       "deposit_params": {
         "min_deposit": [
           {
-            "denom": "uluna",
+            "denom": "uinrt",
             "amount": "10000000"
           }
         ],
@@ -253,7 +253,7 @@
         "annual_provisions": "0.000000000000000000"
       },
       "params": {
-        "mint_denom": "uluna",
+        "mint_denom": "uinrt",
         "inflation_rate_change": "0.130000000000000000",
         "inflation_max": "0.200000000000000000",
         "inflation_min": "0.070000000000000000",
@@ -314,7 +314,7 @@
         "max_validators": 100,
         "max_entries": 7,
         "historical_entries": 10000,
-        "bond_denom": "uluna"
+        "bond_denom": "uinrt"
       },
       "last_total_power": "0",
       "last_validator_powers": [],
